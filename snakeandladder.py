@@ -221,3 +221,4 @@ class SnakeAndLadder:
 if __name__ == "__main__":
     snake = SnakeAndLadder()
     snake.start()
+    
